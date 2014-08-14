@@ -3,5 +3,5 @@
 
 ```test_tsv.conf``` is the configuration file I used to build this simple little index. Take a look to learn more.
 
-And, go read this blog post for more information.
+And, go read [this blog post](http://sphinxsearch.com/blog/2014/08/14/easy-indexing-with-tsvpipe/) for more information.
 
