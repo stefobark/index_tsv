@@ -11,5 +11,5 @@ In my case, I wanted to play around with UFO sighting descriptions. I came acros
 sudo bash docid.sh
 ```
 
-And then, go read [this blog post](http://sphinxsearch.com/blog/2014/08/14/easy-indexing-with-tsvpipe/) for more information.
+Also, go read [this blog post](http://sphinxsearch.com/blog/2014/08/14/easy-indexing-with-tsvpipe/) for more information.
 
