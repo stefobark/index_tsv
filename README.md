@@ -4,7 +4,7 @@
 ```test_tsv.conf``` is the configuration file I used to build this simple little index. Take a look to learn more.
 
 #####DOCID#####
-As was previously mentioned, Sphinx wants a unique document identifier. ```docid.sh``` is one way to add this. It just reads each line from a file of your choosing and prints an incrementing DOCID to each line followed by a tab.
+```docid.sh``` is one way to add docids to each line of your tsv file. It just reads each line from a file and prints an incrementing DOCID to each line (followed by a tab).
 
 In my case, I wanted to play around with UFO sighting descriptions. I came across [this](http://www.infochimps.com/datasets/60000-documented-ufo-sightings-with-text-descriptions-and-metada) and wanted to play around with it using Sphinx. I saw no unique keys, so I added them with this little script. Check it out, just change the file name to match yours and then, from the appropriate directory, run it:
 ```
